@@ -65,7 +65,8 @@ nav li{
     color:#757575;
     font-size: 18px;
     padding-left: 0px;
-    margin: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 /* main section */
 main{
@@ -150,14 +151,33 @@ main{
 
 .resume-content{
     display: flex;
+    gap: 24px;
 }
 .resume-title{
+    font-weight: 700;
+font-size: 25px;
+color: #474747;
+}
+.r-title{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: black;
+
+
+}
+
+.resume-item{
+    margin-top:30px;
+    margin-bottom: 30px;
 
 }
 .sub-title{
     color: #757575;
     font-weight: 400;
     font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .r-title{
     font-weight: 700;
@@ -167,7 +187,11 @@ main{
 .r-description{
    
     color: #757575;
+}
 
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
 }
 
 
