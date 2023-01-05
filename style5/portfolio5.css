@@ -148,3 +148,26 @@ main{
 }
 /* resume-styles */
 
+.resume-content{
+    display: flex;
+}
+.resume-title{
+
+}
+.sub-title{
+    color: #757575;
+    font-weight: 400;
+    font-size: 15px;
+}
+.r-title{
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.r-description{
+   
+    color: #757575;
+
+}
+
+
